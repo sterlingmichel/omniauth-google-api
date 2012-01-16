@@ -1,0 +1,7 @@
+    Sign up for an account on Gemcutter
+    Make sure you’re running at least RubyGems 1.3.3. gem -v
+    Create your gem. Get started with Jeweler
+    Install the gemcutter gem with: gem install gemcutter
+    Build your gem with: gem build yourgem.gemspec
+    Push it! gem push yourgem-0.0.1.gem
+
